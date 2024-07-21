@@ -1,0 +1,718 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="C:\Users\win7\Desktop\eCommerce" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="FileSystem" replaceMatchingFiles="True" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="images/mainlogo6.jpg" publishTime="03/30/2015 09:11:42" />
+    <file relUrl="js/bootstrap.js" publishTime="03/30/2015 09:11:26" />
+    <file relUrl="MyTransactions.aspx" publishTime="04/05/2018 01:42:04" />
+    <file relUrl="js/droid_sans_400-droid_sans_700.font.js" publishTime="02/09/2018 02:31:16" />
+    <file relUrl="images/Grid_Header.gif" publishTime="03/30/2015 09:11:42" />
+    <file relUrl="Item_Photos/ae.jpg" publishTime="05/27/2017 01:14:12" />
+    <file relUrl="images/form_input_long.gif" publishTime="12/26/2011 08:10:56" />
+    <file relUrl="img/gallery/client-img-3.png" publishTime="03/30/2015 09:11:26" />
+    <file relUrl="images/about-us-icon-1.jpg" publishTime="12/15/2011 09:31:16" />
+    <file relUrl="Item_Photos/Diamond green men winter fleece hoodies.jpg" publishTime="05/05/2017 07:06:30" />
+    <file relUrl="Item_Photos/Lenovo a8-50 tablet.jpeg" publishTime="05/05/2017 03:31:22" />
+    <file relUrl="Item_Photos/Lenovo tab S8.jpeg" publishTime="05/05/2017 03:34:06" />
+    <file relUrl="Item_Photos/Lenovo G50-45.jpg" publishTime="05/27/2017 02:22:26" />
+    <file relUrl="scripts/index.html" publishTime="12/26/2011 08:10:16" />
+    <file relUrl="images/ed3.jpg" publishTime="02/09/2018 02:31:00" />
+    <file relUrl="images/106.cms.jpeg" publishTime="12/27/2011 13:21:20" />
+    <file relUrl="images/107.cms.jpg" publishTime="12/30/2011 09:03:18" />
+    <file relUrl="images/Homebg.jpg" publishTime="12/27/2011 14:00:22" />
+    <file relUrl="Member_Tasks.aspx" publishTime="04/05/2018 01:44:16" />
+    <file relUrl="images/featured_slide_trans.png" publishTime="12/26/2011 08:10:56" />
+    <file relUrl="Item_Photos/Men Polo Hombre Shirt Mens Fashion Collar shirts Long Sleeve.jpg" publishTime="04/18/2017 04:48:44" />
+    <file relUrl="Registration_page.aspx" publishTime="04/13/2019 13:28:39" />
+    <file relUrl="images/download1.jpeg" publishTime="03/30/2015 09:11:42" />
+    <file relUrl="images/Book3.jpg" publishTime="11/18/2014 10:37:22" />
+    <file relUrl="images/_flickr5.jpg" publishTime="03/30/2015 09:11:40" />
+    <file relUrl="images/replybtn.png" publishTime="03/30/2015 09:11:42" />
+    <file relUrl="images/1.jpg" publishTime="02/09/2018 02:48:02" />
+    <file relUrl="images/mg_0659.jpg" publishTime="02/09/2018 02:48:02" />
+    <file relUrl="images/best-ever-german-chocolate-cake-main.jpg" publishTime="02/09/2018 02:48:02" />
+    <file relUrl="Item_Photos/Moto M mobile phone.jpeg" publishTime="05/05/2017 03:39:28" />
+    <file relUrl="Item_Photos/Spring Summer 2017 new Patchwork white button down.jpg" publishTime="05/27/2017 01:25:38" />
+    <file relUrl="images/pecan-pie-recipe-paleo-gluten-free-1.jpg" publishTime="02/09/2018 02:48:02" />
+    <file relUrl="images/Message_Success.png" publishTime="03/30/2015 09:11:42" />
+    <file relUrl="Item_Photos/Gazian and girling half brown shoes.jpg" publishTime="05/27/2017 01:34:20" />
+    <file relUrl="images/cuddles-on-the-beach-2-600x600.jpg" publishTime="02/09/2018 02:48:02" />
+    <file relUrl="fonts/css/font-awesome.css" publishTime="03/30/2015 09:11:26" />
+    <file relUrl="style/style.css" publishTime="12/04/2014 09:04:42" />
+    <file relUrl="Item_Photos/Black full arm shirt with hoody.jpg" publishTime="05/05/2017 07:02:06" />
+    <file relUrl="Item_Photos/Green chanderi kurta.jpg" publishTime="05/27/2017 02:18:02" />
+    <file relUrl="css/coin-slider.css" publishTime="02/09/2018 02:30:32" />
+    <file relUrl="images/105.cms.jpeg" publishTime="12/26/2011 08:38:40" />
+    <file relUrl="Item_Photos/HP elite pad 900.jpg" publishTime="05/27/2017 02:18:56" />
+    <file relUrl="Item_Photos/Vintage Swing Dress Stretchy Cotton Sleeveless Hal.jpg" publishTime="05/27/2017 02:32:38" />
+    <file relUrl="Item_Photos/Red georgette saree.jpg" publishTime="05/05/2017 07:40:02" />
+    <file relUrl="images/findout.jpg" publishTime="12/14/2011 17:04:12" />
+    <file relUrl="images/Message_Error.png" publishTime="03/30/2015 09:11:42" />
+    <file relUrl="img/gallery/flickr-img-1.jpg" publishTime="03/30/2015 09:11:26" />
+    <file relUrl="images/_flickr6.jpg" publishTime="03/30/2015 09:11:40" />
+    <file relUrl="images/Edu_Banner6.jpg" publishTime="02/09/2018 02:31:00" />
+    <file relUrl="images/2b6a2896751d6929b8d92e81f34e2920.jpg" publishTime="02/09/2018 02:48:02" />
+    <file relUrl="images/Untitled-3.jpg" publishTime="04/27/2016 17:37:48" />
+    <file relUrl="images/Register_Now_Icon.jpg" publishTime="03/30/2015 09:11:42" />
+    <file relUrl="images/feedbackicon1.jpg" publishTime="03/30/2015 09:11:42" />
+    <file relUrl="img/piccolo-logo1.png" publishTime="03/30/2015 09:11:26" />
+    <file relUrl="Item_Photos/Beige netted sleevless kurta.jpg" publishTime="05/27/2017 02:12:54" />
+    <file relUrl="Item_Photos/HP 10 tablet.jpg" publishTime="05/27/2017 02:18:32" />
+    <file relUrl="images/Book2.jpg" publishTime="11/18/2014 10:37:22" />
+    <file relUrl="images/ed1.jpg" publishTime="02/09/2018 02:31:00" />
+    <file relUrl="img/glyphicons-halflings.png" publishTime="03/30/2015 09:11:26" />
+    <file relUrl="img/slider-caption-bg.png" publishTime="03/30/2015 09:11:26" />
+    <file relUrl="images/Clothes_1.jpg" publishTime="12/29/2011 09:26:48" />
+    <file relUrl="images/Mobile_5.jpg" publishTime="12/29/2011 09:26:12" />
+    <file relUrl="images/Message_Information.png" publishTime="03/30/2015 09:11:42" />
+    <file relUrl="Item_Photos/f.jpg" publishTime="05/27/2017 02:16:56" />
+    <file relUrl="Item_Photos/men autumn motorcycle leather jacket.jpg" publishTime="05/27/2017 02:25:34" />
+    <file relUrl="Item_Photos/HP stream 7 tablet.jpg" publishTime="05/27/2017 02:20:08" />
+    <file relUrl="images/Book6.jpg" publishTime="11/18/2014 10:37:22" />
+    <file relUrl="Item_Photos/Women black solid anarkali kurta.jpg" publishTime="05/27/2017 02:33:52" />
+    <file relUrl="Item_Photos/Men Shirt Slim Fit Striped Business Formal Shirt.jpg" publishTime="05/27/2017 02:26:20" />
+    <file relUrl="images/contenthead.gif" publishTime="03/30/2015 09:11:42" />
+    <file relUrl="Item_Photos/Dell Inspiron 3162 .jpg" publishTime="04/18/2017 04:48:44" />
+    <file relUrl="Item_Photos/Dell inspiron 3558.JPG" publishTime="05/06/2017 08:48:24" />
+    <file relUrl="Item_Photos/Moto Z mobile.jpeg" publishTime="05/05/2017 03:41:38" />
+    <file relUrl="images/101.cms.jpeg" publishTime="12/26/2011 08:35:08" />
+    <file relUrl="images/closelabel.gif" publishTime="12/15/2011 09:32:40" />
+    <file relUrl="bin/Emails.dll" publishTime="03/17/2011 11:23:50" />
+    <file relUrl="Item_Photos/af.jpg" publishTime="05/27/2017 01:14:40" />
+    <file relUrl="images/image_1323671324608.jpg" publishTime="12/27/2011 14:01:00" />
+    <file relUrl="scripts/jquery.tabs.setup.js" publishTime="01/13/2012 15:05:12" />
+    <file relUrl="images/logo2.jpg" publishTime="03/30/2015 09:11:42" />
+    <file relUrl="Item_Photos/Men Polo Hombre Shirt Mens Fashion Collar shirts .jpg" publishTime="05/08/2017 21:58:06" />
+    <file relUrl="images/Book1.jpg" publishTime="11/18/2014 10:37:22" />
+    <file relUrl="ContactUs.aspx" publishTime="04/07/2018 01:28:52" />
+    <file relUrl="Item_Photos/Lenovo ideatab a-2107.jpeg" publishTime="05/05/2017 03:32:22" />
+    <file relUrl="images/mainlogo3.jpg" publishTime="03/30/2015 09:11:42" />
+    <file relUrl="Item_Photos/Blue and white baby boy clothing.jpg" publishTime="05/27/2017 02:14:08" />
+    <file relUrl="images/ed4.jpg" publishTime="02/09/2018 02:31:00" />
+    <file relUrl="js/script.js" publishTime="02/09/2018 02:31:16" />
+    <file relUrl="images/_thumb1.jpg" publishTime="03/30/2015 09:11:40" />
+    <file relUrl="images/cca757f6a8afa6ca684940245876909b.jpg" publishTime="02/09/2018 02:48:02" />
+    <file relUrl="images/security-icon-big.gif" publishTime="03/30/2015 09:11:42" />
+    <file relUrl="js/jquery-1.4.2.min.js" publishTime="02/09/2018 02:31:16" />
+    <file relUrl="images/icon1.jpg" publishTime="03/30/2015 09:11:42" />
+    <file relUrl="Item_Photos/HP slate 7 voice tab.jpg" publishTime="05/27/2017 02:19:18" />
+    <file relUrl="images/icon5.jpg" publishTime="03/30/2015 09:11:42" />
+    <file relUrl="images/c-arrows.png" publishTime="03/30/2015 09:11:40" />
+    <file relUrl="Item_Photos/white jeans for men.jpg" publishTime="05/27/2017 01:09:50" />
+    <file relUrl="img/piccolo-logo2.png" publishTime="03/30/2015 09:11:26" />
+    <file relUrl="images/slider_bg.jpg" publishTime="03/30/2015 09:11:42" />
+    <file relUrl="images/kashmiri-naan-600x587.jpg" publishTime="02/09/2018 02:48:02" />
+    <file relUrl="images/FNM_110110-Pies-027_s4x3.jpg.rend.hgtvcom.406.305.jpeg" publishTime="02/09/2018 02:48:02" />
+    <file relUrl="img/gallery/gallery-img-2-thumb.jpg" publishTime="03/30/2015 09:11:26" />
+    <file relUrl="images/low_protein_macaroni_and_cheese.jpg" publishTime="02/09/2018 02:48:02" />
+    <file relUrl="Admin_Loginpage.aspx" publishTime="04/05/2018 00:56:24" />
+    <file relUrl="Item_Photos/Kcoyster mens plaid shirts small checks gingham shirts.jpg" publishTime="05/27/2017 02:22:00" />
+    <file relUrl="Item_Photos/White cotton saree.jpg" publishTime="05/05/2017 07:34:24" />
+    <file relUrl="images/loginbg4.jpg" publishTime="03/30/2015 09:11:42" />
+    <file relUrl="images/2.jpg" publishTime="04/11/2019 16:59:05" />
+    <file relUrl="ThemeBlue.css" publishTime="03/30/2015 09:11:26" />
+    <file relUrl="images/feedbackIcon.jpg" publishTime="03/30/2015 09:11:42" />
+    <file relUrl="Item_Photos/Casual leather loafer shoes for men.jpg" publishTime="05/05/2017 10:26:00" />
+    <file relUrl="images/mg_0664.jpg" publishTime="02/09/2018 02:48:02" />
+    <file relUrl="Item_Photos/Lenovo miix 3 tablet.jpeg" publishTime="05/05/2017 03:32:54" />
+    <file relUrl="Item_Photos/Moto G turbo.jpeg" publishTime="05/05/2017 03:36:14" />
+    <file relUrl="img/author-avatar.jpg" publishTime="03/30/2015 09:11:26" />
+    <file relUrl="img/gallery/slider-img-1.jpg" publishTime="03/30/2015 09:11:26" />
+    <file relUrl="Item_Photos/White shirt with green boy shirt.jpg" publishTime="05/27/2017 02:33:06" />
+    <file relUrl="Item_Photos/Woodland Mens Leather Boots.jpg" publishTime="05/27/2017 02:34:16" />
+    <file relUrl="Item_Photos/Lenovo a7-50 tablet.jpeg" publishTime="05/05/2017 03:30:44" />
+    <file relUrl="images/background.gif" publishTime="03/30/2015 09:11:40" />
+    <file relUrl="Item_Photos/Lenovo tab 2 a7-20.jpeg" publishTime="05/05/2017 03:33:42" />
+    <file relUrl="images/cat_12.jpg" publishTime="12/29/2011 09:26:26" />
+    <file relUrl="js/owl.carousel.js" publishTime="03/30/2015 09:11:26" />
+    <file relUrl="ReviewOrder.aspx" publishTime="02/09/2018 03:00:48" />
+    <file relUrl="images/contact.jpg" publishTime="02/09/2018 02:31:00" />
+    <file relUrl="Item_Photos/Black tinted round sunglasses for men.jpg" publishTime="05/05/2017 09:38:00" />
+    <file relUrl="Item_Photos/No pain no gain hoody sweatshirts.jpg" publishTime="05/05/2017 07:00:06" />
+    <file relUrl="images/register-300x270.jpg" publishTime="12/15/2011 08:58:38" />
+    <file relUrl="Item_Photos/Lenovo ideapad yoga 510.png" publishTime="05/06/2017 09:00:42" />
+    <file relUrl="images/Edu_Banner5.jpg" publishTime="02/09/2018 02:31:00" />
+    <file relUrl="images/gallery.jpg" publishTime="12/14/2011 17:04:12" />
+    <file relUrl="Item_Photos/Irregular metal frame sunglasses for men.jpg" publishTime="05/05/2017 09:56:40" />
+    <file relUrl="images/deletebtn.jpg" publishTime="02/09/2018 02:31:00" />
+    <file relUrl="images/200x150.gif" publishTime="03/30/2015 09:11:40" />
+    <file relUrl="Item_Photos/dell.jpg" publishTime="05/27/2017 01:29:18" />
+    <file relUrl="images/Grid_RowNormal.gif" publishTime="03/30/2015 09:11:42" />
+    <file relUrl="img/prettyPhoto/default/sprite_prev.png" publishTime="03/30/2015 09:11:26" />
+    <file relUrl="Item_Photos/Ray ban wings sunglasses for men.jpg" publishTime="05/05/2017 09:39:46" />
+    <file relUrl="images/images.jpeg" publishTime="03/30/2015 14:27:48" />
+    <file relUrl="images/103.cms.jpeg" publishTime="12/26/2011 08:38:42" />
+    <file relUrl="images/applicance1.jpg" publishTime="03/30/2015 09:11:40" />
+    <file relUrl="Item_Photos/Dell Inspiron 15 3000 Series 15.6 Inch (Intel Pentium N3700, 4 GB RAM, 500 GB HDD.jpg" publishTime="04/18/2017 04:48:44" />
+    <file relUrl="Item_Photos/Red and black printed anarkali kurta.jpg" publishTime="05/05/2017 07:15:56" />
+    <file relUrl="Item_Photos/ac.jpg" publishTime="05/27/2017 01:12:34" />
+    <file relUrl="Item_Photos/Black wool winter sweaters for men.jpg" publishTime="05/27/2017 01:28:42" />
+    <file relUrl="images/shade.png" publishTime="03/30/2015 09:11:42" />
+    <file relUrl="images/243296_hires.jpg" publishTime="02/09/2018 02:48:02" />
+    <file relUrl="Item_Photos/Long Sleeve tee New Arrivel Fashion Cotton Anti-Wrinkle striped.jpg" publishTime="05/27/2017 02:24:54" />
+    <file relUrl="images/contact us button.jpg" publishTime="03/30/2015 09:11:42" />
+    <file relUrl="Item_Photos/Xiomi redmi 4x mobile phones.jpeg" publishTime="05/05/2017 03:52:58" />
+    <file relUrl="images/Chicken-Biryani-8-465x620.jpg" publishTime="02/09/2018 02:48:02" />
+    <file relUrl="Item_Photos/b.jpg" publishTime="05/27/2017 01:28:14" />
+    <file relUrl="images/goshop.jpg" publishTime="12/14/2011 17:04:12" />
+    <file relUrl="images/sale.jpg" publishTime="12/14/2011 17:04:12" />
+    <file relUrl="Item_Photos/Lenovo G50-70.png" publishTime="05/06/2017 09:01:24" />
+    <file relUrl="Item_Photos/Dark gray men's jeans.png" publishTime="04/26/2017 22:20:52" />
+    <file relUrl="Item_Photos/Omega black dial watch for men.jpg" publishTime="05/27/2017 02:28:24" />
+    <file relUrl="images/menu.jpg" publishTime="12/14/2011 17:04:12" />
+    <file relUrl="images/108.cms.jpeg" publishTime="12/27/2011 13:21:20" />
+    <file relUrl="Item_Photos/Men sleeveless wool sweaters.jpg" publishTime="05/05/2017 06:33:26" />
+    <file relUrl="Item_Photos/Zipper mens thrasher hoodie.jpg" publishTime="05/27/2017 02:35:40" />
+    <file relUrl="images/DSC_1842.jpg" publishTime="02/09/2018 02:48:02" />
+    <file relUrl="images/1e0657_1280.jpg" publishTime="02/09/2018 02:48:02" />
+    <file relUrl="images/jalapeno-bottle-caps.png" publishTime="02/09/2018 02:48:02" />
+    <file relUrl="Item_Photos/Red and blue party dress.jpg" publishTime="05/05/2017 07:25:38" />
+    <file relUrl="ItemFeedbacks.aspx" publishTime="04/14/2018 23:39:08" />
+    <file relUrl="images/featured_slide_left.png" publishTime="12/26/2011 08:10:56" />
+    <file relUrl="js/cufon-yui.js" publishTime="02/09/2018 02:31:16" />
+    <file relUrl="Item_Photos/Nautica analog blue belt watch.jpg" publishTime="05/05/2017 08:28:06" />
+    <file relUrl="Item_Photos/HTC U Play.jpg" publishTime="05/05/2017 03:28:32" />
+    <file relUrl="images/images1.jpg" publishTime="12/15/2011 08:58:38" />
+    <file relUrl="images/ad468x60.gif" publishTime="03/30/2015 09:11:40" />
+    <file relUrl="images/Untitled-10.png" publishTime="04/27/2016 17:50:30" />
+    <file relUrl="Item_Photos/leather watch.jpg" publishTime="04/18/2017 04:48:44" />
+    <file relUrl="Item_Photos/Mens wooded winter sweatshirts.jpg" publishTime="05/05/2017 06:59:06" />
+    <file relUrl="css/bootstrap-responsive.css" publishTime="03/30/2015 09:11:26" />
+    <file relUrl="Item_Photos/white and pink bow dress.jpg" publishTime="05/05/2017 00:56:38" />
+    <file relUrl="images/proceed.jpg" publishTime="12/14/2011 17:04:12" />
+    <file relUrl="images/cart2.png" publishTime="12/03/2014 13:45:56" />
+    <file relUrl="images/exps43485_HC1597097D201A.jpg" publishTime="02/09/2018 02:48:02" />
+    <file relUrl="images/black_file.gif" publishTime="12/26/2011 08:10:56" />
+    <file relUrl="Item_Photos/al.jpg" publishTime="05/27/2017 01:18:32" />
+    <file relUrl="Item_Photos/Xmen bomber tan brown leather jacket.jpg" publishTime="05/27/2017 01:27:26" />
+    <file relUrl="images/polly-s-bakery-cafe.jpg" publishTime="02/09/2018 02:48:02" />
+    <file relUrl="images/right-ad3.jpg" publishTime="12/14/2011 17:04:12" />
+    <file relUrl="Item_Photos/m.jpg" publishTime="05/27/2017 02:25:14" />
+    <file relUrl="images/det_pic.jpg" publishTime="03/30/2015 09:11:42" />
+    <file relUrl="images/ipod.jpg" publishTime="12/14/2011 17:04:12" />
+    <file relUrl="Item_Photos/Enticer Black Dial Mens Watch.jpg" publishTime="05/04/2017 22:34:16" />
+    <file relUrl="images/Triple-Chocolate-Cake-2.jpg" publishTime="02/09/2018 02:48:02" />
+    <file relUrl="images/washingmachineimage2.JPG" publishTime="03/30/2015 09:11:42" />
+    <file relUrl="images/blog_pic2.jpg" publishTime="03/30/2015 09:11:40" />
+    <file relUrl="css/owl.carousel.css" publishTime="03/30/2015 09:11:26" />
+    <file relUrl="img/apple-touch-icon-72x72.png" publishTime="03/30/2015 09:11:26" />
+    <file relUrl="images/mainlogo2.jpg" publishTime="03/30/2015 09:11:42" />
+    <file relUrl="images/Changepwdicon.jpg" publishTime="03/30/2015 09:11:42" />
+    <file relUrl="Item_Photos/cartoon clothing summer dress.jpg" publishTime="05/27/2017 02:14:32" />
+    <file relUrl="Item_Photos/Pink and gold silk saree.jpg" publishTime="05/05/2017 07:32:28" />
+    <file relUrl="css/custom-styles.css" publishTime="03/30/2015 09:11:26" />
+    <file relUrl="Item_Photos/aa.jpg" publishTime="05/27/2017 01:07:22" />
+    <file relUrl="Item_Photos/Ivory romper girl dress.jpg" publishTime="05/05/2017 01:05:08" />
+    <file relUrl="Item_Photos/Beige skirt with pink top.jpg" publishTime="05/05/2017 01:01:18" />
+    <file relUrl="images/search_bg.gif" publishTime="02/09/2018 02:31:00" />
+    <file relUrl="img/gallery/client-img-2.png" publishTime="03/30/2015 09:11:26" />
+    <file relUrl="PostItemFeedbacks.aspx" publishTime="04/05/2018 01:43:14" />
+    <file relUrl="images/Container_Header.gif" publishTime="03/30/2015 09:11:42" />
+    <file relUrl="images/DSC05718poori.png" publishTime="02/09/2018 02:48:02" />
+    <file relUrl="images/Butter-Chicken-3-465x620.jpg" publishTime="02/09/2018 02:48:02" />
+    <file relUrl="images/lava.png" publishTime="12/25/2011 09:41:16" />
+    <file relUrl="images/Logout.jpg" publishTime="12/15/2011 15:28:20" />
+    <file relUrl="Item_Photos/Apple iphone 6s.jpeg" publishTime="05/05/2017 01:54:22" />
+    <file relUrl="Main.Master" publishTime="04/11/2019 17:03:07" />
+    <file relUrl="Item_Photos/Matrix Analogue Blue Dail Mens Watch.jpg" publishTime="05/04/2017 22:34:48" />
+    <file relUrl="images/Cart.jpg" publishTime="12/15/2011 15:44:58" />
+    <file relUrl="BrowseItems.aspx" publishTime="04/05/2018 01:41:38" />
+    <file relUrl="Item_Photos/Grey saree with embroidered blouse.jpg" publishTime="05/05/2017 07:37:26" />
+    <file relUrl="img/location-map.jpg" publishTime="03/30/2015 09:11:26" />
+    <file relUrl="images/profile2.png" publishTime="03/30/2015 09:11:42" />
+    <file relUrl="images/userpic.gif" publishTime="02/09/2018 02:31:00" />
+    <file relUrl="Item_Photos/Rolex champagne dial rose gold watch.jpg" publishTime="05/27/2017 02:31:04" />
+    <file relUrl="Item_Photos/rolex casual watch.jpg" publishTime="04/18/2017 04:48:44" />
+    <file relUrl="images/mainlogo.jpg" publishTime="03/30/2015 09:11:42" />
+    <file relUrl="images/mainlogin1.jpg" publishTime="03/30/2015 09:11:42" />
+    <file relUrl="images/EditIcon.jpg" publishTime="03/30/2015 09:11:42" />
+    <file relUrl="images/cart1.jpg" publishTime="12/03/2014 13:45:56" />
+    <file relUrl="Item_Photos/Moto G5.jpeg" publishTime="05/05/2017 03:38:16" />
+    <file relUrl="Item_Photos/Green and blue silk saree.jpg" publishTime="05/27/2017 02:17:38" />
+    <file relUrl="images/twitter_logo.gif" publishTime="12/26/2011 08:10:56" />
+    <file relUrl="Item_Photos/Hollow out breathable summer leather sneakers.jpg" publishTime="05/05/2017 10:29:02" />
+    <file relUrl="Item_Photos/Adidas original sweatshirts for men.jpg" publishTime="05/27/2017 01:13:46" />
+    <file relUrl="bin/DATAMINING_ASSOCIATIONRULE.dll" publishTime="04/30/2019 16:13:52" />
+    <file relUrl="Item_Photos/Grey sweatshirts for men.jpg" publishTime="05/05/2017 07:01:24" />
+    <file relUrl="images/bkgd.jpg" publishTime="12/20/2011 14:39:06" />
+    <file relUrl="css/prettyPhoto.css" publishTime="03/30/2015 09:11:26" />
+    <file relUrl="scripts/jquery-ui-1.7.2.custom.min.js" publishTime="12/26/2011 08:10:16" />
+    <file relUrl="Web.config" publishTime="10/20/2018 10:56:37" />
+    <file relUrl="Item_Photos/T shirts Men Fashion curling short - sleeved Slim stretch.jpg" publishTime="05/27/2017 01:24:56" />
+    <file relUrl="img/gallery/slidder3.jpg" publishTime="03/30/2015 09:11:26" />
+    <file relUrl="images/shop-online-banner.png" publishTime="04/27/2016 17:44:48" />
+    <file relUrl="Item_Photos/Square polarized sunglasses for men.jpg" publishTime="05/05/2017 09:58:28" />
+    <file relUrl="Item_Photos/HTC one a9 phone.jpeg" publishTime="05/05/2017 03:28:02" />
+    <file relUrl="img/gallery-item-hover.png" publishTime="03/30/2015 09:11:26" />
+    <file relUrl="images/Recipe_of_murgh-shahi-korma.jpg" publishTime="02/09/2018 02:48:02" />
+    <file relUrl="Item_Photos/Blue and white sneakers mens shoes.jpg" publishTime="05/27/2017 02:13:46" />
+    <file relUrl="Item_Photos/h.jpg" publishTime="04/18/2017 04:48:44" />
+    <file relUrl="images/ReplyFrame.jpg" publishTime="12/15/2011 16:41:34" />
+    <file relUrl="Item_Photos/Black leather formal shoes for men.jpg" publishTime="05/27/2017 01:33:52" />
+    <file relUrl="TransactionDetails.aspx" publishTime="02/09/2018 03:01:22" />
+    <file relUrl="Admin_Items.aspx" publishTime="04/05/2018 01:34:56" />
+    <file relUrl="Item_Photos/White zipper sweatshirts hoodies.jpg" publishTime="05/05/2017 07:08:24" />
+    <file relUrl="images/logo1.jpg" publishTime="03/30/2015 09:11:42" />
+    <file relUrl="images/loginbg9.jpg" publishTime="03/10/2016 16:33:08" />
+    <file relUrl="images/20160620065713plain-naan.jpg" publishTime="02/09/2018 02:48:02" />
+    <file relUrl="Item_Photos/ao.jpg" publishTime="05/27/2017 01:20:14" />
+    <file relUrl="images/gal6.jpg" publishTime="02/09/2018 02:31:00" />
+    <file relUrl="Item_Photos/Dell vostro 3565.jpg" publishTime="05/06/2017 08:53:22" />
+    <file relUrl="Item_Photos/Breitling analog watch for men.jpg" publishTime="05/05/2017 08:26:42" />
+    <file relUrl="images/Clothes_3.jpg" publishTime="12/29/2011 09:26:48" />
+    <file relUrl="images/cart.gif" publishTime="01/01/2012 08:36:44" />
+    <file relUrl="images/mpbile.jpg" publishTime="12/14/2011 17:04:12" />
+    <file relUrl="images/mobile.jpg" publishTime="12/14/2011 17:04:12" />
+    <file relUrl="images/t5.png" publishTime="03/30/2015 09:11:42" />
+    <file relUrl="img/gallery/slidder4.jpg" publishTime="03/30/2015 09:11:26" />
+    <file relUrl="images/Postbox.jpg" publishTime="12/15/2011 08:58:38" />
+    <file relUrl="fonts/css/font-awesome.min.css" publishTime="03/30/2015 09:11:26" />
+    <file relUrl="images/appliance2.jpg" publishTime="03/30/2015 09:11:40" />
+    <file relUrl="Item_Photos/Cotton full arm slim fitted shirt.jpg" publishTime="05/27/2017 02:14:58" />
+    <file relUrl="Item_Photos/Xiomi redmi note 4 mobile phones.jpeg" publishTime="05/05/2017 03:53:44" />
+    <file relUrl="Item_Photos/y.jpg" publishTime="05/27/2017 01:26:58" />
+    <file relUrl="js/jquery.flexslider.js" publishTime="03/30/2015 09:11:26" />
+    <file relUrl="images/Sale_1.jpg" publishTime="12/20/2011 09:05:18" />
+    <file relUrl="css/style-ie.css" publishTime="03/30/2015 09:11:26" />
+    <file relUrl="images/Clothes_4.jpg" publishTime="12/29/2011 09:26:48" />
+    <file relUrl="images/registericon.gif" publishTime="03/30/2015 09:11:42" />
+    <file relUrl="images/mainlogo123.jpg" publishTime="03/30/2015 09:11:42" />
+    <file relUrl="js/jquery.custom.js" publishTime="03/30/2015 09:11:26" />
+    <file relUrl="Item_Photos/HTC 10 phone.jpeg" publishTime="05/05/2017 03:23:54" />
+    <file relUrl="images/104.cms.jpeg" publishTime="12/26/2011 08:38:42" />
+    <file relUrl="images/Caramel-Macchiato-Iced-Coffee-Ice-Cream-by-Crunchy-Creamy-Sweet.jpg" publishTime="02/09/2018 02:48:02" />
+    <file relUrl="Item_Photos/ab.jpg" publishTime="05/27/2017 01:12:06" />
+    <file relUrl="images/jalpaan-restaurant.jpg" publishTime="02/09/2018 02:48:02" />
+    <file relUrl="Item_Photos/Dell inspiron 3148.jpg" publishTime="05/06/2017 08:47:06" />
+    <file relUrl="Item_Photos/Men Shirt Slim Fit Striped Formal Shirt.jpg" publishTime="05/27/2017 02:26:44" />
+    <file relUrl="images/FPslide1.jpg" publishTime="02/14/2017 23:42:20" />
+    <file relUrl="images/a3.jpg" publishTime="03/30/2015 09:11:40" />
+    <file relUrl="Item_Photos/Aviater black biker leather jacket .jpg" publishTime="05/05/2017 06:49:36" />
+    <file relUrl="scripts/jquery-prettyPhoto.js" publishTime="12/26/2011 08:10:16" />
+    <file relUrl="images/110.cms.jpeg" publishTime="12/27/2011 13:21:20" />
+    <file relUrl="Item_Photos/c.jpg" publishTime="05/27/2017 01:22:24" />
+    <file relUrl="images/c4.jpg" publishTime="03/30/2015 09:11:40" />
+    <file relUrl="images/blue_file.gif" publishTime="12/26/2011 08:10:56" />
+    <file relUrl="images/Grid_RowAlternate.gif" publishTime="03/30/2015 09:11:42" />
+    <file relUrl="Item_Photos/Blue Aviator and Wayfarer Designer Sunglasses.jpg" publishTime="05/05/2017 09:45:52" />
+    <file relUrl="images/adminicon1.jpg" publishTime="03/30/2015 09:11:40" />
+    <file relUrl="images/ecommerce-2.jpg" publishTime="04/27/2016 17:44:48" />
+    <file relUrl="Item_Photos/Women Elegant Blouses Shirts Ladies O Neck Flounce.jpg" publishTime="05/27/2017 01:26:06" />
+    <file relUrl="img/prettyPhoto/default/sprite_y.png" publishTime="03/30/2015 09:11:26" />
+    <file relUrl="images/Registration_Frame.JPG" publishTime="01/03/2012 14:35:20" />
+    <file relUrl="img/gallery/thumbnail-270x130.jpg" publishTime="03/30/2015 09:11:26" />
+    <file relUrl="images/t2.jpeg" publishTime="12/04/2014 08:27:08" />
+    <file relUrl="Item_Photos/Blue leather canvas shoes for men.jpg" publishTime="05/05/2017 10:34:44" />
+    <file relUrl="images/submit.gif" publishTime="02/09/2018 02:31:00" />
+    <file relUrl="images/_thumb3.jpg" publishTime="03/30/2015 09:11:40" />
+    <file relUrl="images/mainlogo8.jpg" publishTime="03/30/2015 09:11:42" />
+    <file relUrl="Item_Photos/Brown Full Sleeve Solid Mens Jacket.jpg" publishTime="05/05/2017 06:52:36" />
+    <file relUrl="img/gallery/gallery-img-14-6col.jpg" publishTime="03/30/2015 09:11:26" />
+    <file relUrl="CartDetails.aspx" publishTime="02/09/2018 02:58:50" />
+    <file relUrl="Item_Photos/HP slate 8 plus.jpg" publishTime="05/05/2017 03:15:26" />
+    <file relUrl="Item_Photos/HTC one max.jpeg" publishTime="05/05/2017 03:29:14" />
+    <file relUrl="Item_Photos/Designer sunglasses for men.jpg" publishTime="05/05/2017 09:49:04" />
+    <file relUrl="Item_Photos/am.jpg" publishTime="05/27/2017 01:19:22" />
+    <file relUrl="images/search.jpg" publishTime="03/30/2015 09:11:42" />
+    <file relUrl="images/dum-ka-chicken-500x500.jpg" publishTime="02/09/2018 02:48:02" />
+    <file relUrl="img/prettyPhoto/default/loader.gif" publishTime="03/30/2015 09:11:26" />
+    <file relUrl="Item_Photos/Lenovo ideapad 110.jpg" publishTime="05/06/2017 08:57:22" />
+    <file relUrl="images/logo.jpg" publishTime="12/14/2011 17:04:12" />
+    <file relUrl="Categories.aspx" publishTime="04/05/2018 01:34:44" />
+    <file relUrl="images/changepwdicon1.jpg" publishTime="03/30/2015 09:11:42" />
+    <file relUrl="images/FAQ_FRAME.JPG" publishTime="12/27/2011 15:37:06" />
+    <file relUrl="images/Greek-Salad-Chicken-Souvlaki-Tzatziki-12.jpg" publishTime="02/09/2018 02:48:02" />
+    <file relUrl="images/nachos-salsa-plate-34915079.jpg" publishTime="02/09/2018 02:48:02" />
+    <file relUrl="Item_Photos/Pink and beige jute dress with a cap.jpg" publishTime="05/27/2017 02:29:04" />
+    <file relUrl="images/_flickr3.jpg" publishTime="03/30/2015 09:11:40" />
+    <file relUrl="images/96e551d0f5580d5a742987e851d4254f.jpg" publishTime="02/09/2018 02:48:02" />
+    <file relUrl="Item_Photos/p.jpg" publishTime="05/27/2017 02:28:44" />
+    <file relUrl="images/1 (1).JPG" publishTime="02/09/2018 02:48:02" />
+    <file relUrl="images/ed2.jpg" publishTime="02/09/2018 02:31:00" />
+    <file relUrl="images/hyderabadi-mutton-biryani-recipe.jpg" publishTime="02/09/2018 02:48:02" />
+    <file relUrl="Item_Photos/Apple ipad mini 3.jpeg" publishTime="05/05/2017 01:51:18" />
+    <file relUrl="img/user-avatar.jpg" publishTime="03/30/2015 09:11:26" />
+    <file relUrl="images/Untitled-2.jpg" publishTime="04/27/2016 17:36:34" />
+    <file relUrl="Signout.aspx" publishTime="12/27/2011 14:11:16" />
+    <file relUrl="Item_Photos/Xiomi redmi 3s prime mobile phones.jpeg" publishTime="05/05/2017 03:51:48" />
+    <file relUrl="Item_Photos/New Looks Mens maroon Linen Kurta Pyjama.jpg" publishTime="05/27/2017 02:28:00" />
+    <file relUrl="Item_Photos/HP slate 6 voice tablet.jpeg" publishTime="05/05/2017 03:16:44" />
+    <file relUrl="img/gallery/gallery-img-13-6col.jpg" publishTime="03/30/2015 09:11:26" />
+    <file relUrl="img/gallery/slidder1.jpg" publishTime="03/30/2015 09:11:26" />
+    <file relUrl="images/0aa093cdd6658672b3499def4746c753.jpg" publishTime="02/09/2018 02:48:02" />
+    <file relUrl="images/a1.jpg" publishTime="03/30/2015 09:11:40" />
+    <file relUrl="images/caesar-salad_0.jpg" publishTime="02/09/2018 02:48:02" />
+    <file relUrl="Item_Photos/Stretchable men's jeans.jpeg" publishTime="04/26/2017 22:20:32" />
+    <file relUrl="Item_Photos/Mens fashion winter knitted cotton jacket .jpg" publishTime="05/27/2017 02:27:32" />
+    <file relUrl="Item_Photos/Multicolour canvas shoes for men.jpg" publishTime="05/05/2017 10:31:12" />
+    <file relUrl="Item_Photos/Red and black checkered frock.jpg" publishTime="05/27/2017 02:30:22" />
+    <file relUrl="images/cocktail.jpg" publishTime="02/09/2018 02:48:02" />
+    <file relUrl="Item_Photos/z.jpg" publishTime="05/27/2017 01:26:36" />
+    <file relUrl="images/5d125de504632ff3704f65c2eaad21be.jpg" publishTime="02/09/2018 02:48:02" />
+    <file relUrl="images/blog_pic1.jpg" publishTime="03/30/2015 09:11:40" />
+    <file relUrl="images/gal3.jpg" publishTime="02/09/2018 02:31:00" />
+    <file relUrl="Item_Photos/JBN Creation Grey Matka Silk Mod or a Nehru Jacket.jpg" publishTime="05/27/2017 02:21:10" />
+    <file relUrl="Item_Photos/Pink baptism and birthday dress for girls.jpg" publishTime="05/27/2017 02:29:34" />
+    <file relUrl="images/FAQs.jpg" publishTime="12/15/2011 15:28:20" />
+    <file relUrl="images/feedback2.jpeg" publishTime="12/04/2014 08:27:08" />
+    <file relUrl="images/gal5.jpg" publishTime="02/09/2018 02:31:00" />
+    <file relUrl="images/right-box1.jpg" publishTime="12/14/2011 17:04:12" />
+    <file relUrl="images/ta-mark.png" publishTime="02/09/2018 02:31:00" />
+    <file relUrl="images/BannerEcommerce.png" publishTime="04/11/2019 16:58:29" />
+    <file relUrl="img/glyphicons-halflings-white.png" publishTime="03/30/2015 09:11:26" />
+    <file relUrl="img/gallery/thumbnail-270x300.jpg" publishTime="03/30/2015 09:11:26" />
+    <file relUrl="images/91b2ffd3-df67-44a5-aa89-b80fc91fcb7d.jpg" publishTime="02/09/2018 02:48:02" />
+    <file relUrl="images/Changepassword_Frame.JPG" publishTime="12/27/2011 15:39:30" />
+    <file relUrl="_MemberSearch.aspx" publishTime="04/13/2019 16:31:43" />
+    <file relUrl="images/potato-naan.jpg" publishTime="02/09/2018 02:48:02" />
+    <file relUrl="images/5524772891_790b4cc0b0_z.jpg" publishTime="02/09/2018 02:48:02" />
+    <file relUrl="Item_Photos/Ray ban golden brown frame sunglasses for men.jpg" publishTime="05/05/2017 09:57:40" />
+    <file relUrl="Item_Photos/Apple iphone 6s plus.jpg" publishTime="05/05/2017 01:55:10" />
+    <file relUrl="Item_Photos/Dell inspiron 7560.jpeg" publishTime="05/06/2017 08:49:48" />
+    <file relUrl="images/washingmachineimage1.jpg" publishTime="03/30/2015 09:11:42" />
+    <file relUrl="images/images5.jpg" publishTime="12/15/2011 08:58:38" />
+    <file relUrl="images/CAUVGTUR.jpg" publishTime="03/30/2015 09:11:42" />
+    <file relUrl="images/oetlBFhfahhbc_bigger.jpg" publishTime="02/09/2018 02:48:02" />
+    <file relUrl="images/Untitled-1.gif" publishTime="06/20/2012 11:38:18" />
+    <file relUrl="Item_Photos/Xiomi redmi 4a mobile phones.jpeg" publishTime="05/05/2017 03:52:20" />
+    <file relUrl="images/Mobile_3.jpg" publishTime="12/29/2011 09:26:12" />
+    <file relUrl="images/bkgd_1.jpg" publishTime="12/20/2011 14:28:38" />
+    <file relUrl="images/108.cms.jpg" publishTime="01/02/2012 13:29:18" />
+    <file relUrl="images/li.gif" publishTime="02/09/2018 02:31:00" />
+    <file relUrl="images/lcd.jpg" publishTime="12/14/2011 17:04:12" />
+    <file relUrl="MemberCart.aspx" publishTime="04/05/2018 01:43:56" />
+    <file relUrl="images/templatemo_header_01_bg.jpg" publishTime="03/30/2015 09:11:42" />
+    <file relUrl="images/onion-naan.png" publishTime="02/09/2018 02:48:02" />
+    <file relUrl="img/gallery/gallery-img-1-4col-cir.jpg" publishTime="03/30/2015 09:11:26" />
+    <file relUrl="Item_Photos/New hoodies sweatshirts cotton fleece for men .jpg" publishTime="05/05/2017 07:03:40" />
+    <file relUrl="images/mainlogo5.jpg" publishTime="03/30/2015 09:11:42" />
+    <file relUrl="images/FPslide2.jpg" publishTime="02/14/2017 23:42:20" />
+    <file relUrl="Item_Photos/Samsung J2 Silver 8GB.jpg" publishTime="04/18/2017 04:48:44" />
+    <file relUrl="images/107.cms.jpeg" publishTime="12/27/2011 13:21:20" />
+    <file relUrl="Item_Photos/ah.jpg" publishTime="05/27/2017 01:15:38" />
+    <file relUrl="images/split-pea-soup-800.jpg" publishTime="02/09/2018 02:48:02" />
+    <file relUrl="images/3.png" publishTime="02/09/2018 02:48:02" />
+    <file relUrl="Item_Photos/Lenovo ideapad 310.jpg" publishTime="05/27/2017 02:23:08" />
+    <file relUrl="Item_Photos/Lenovo yoga 310.png" publishTime="05/06/2017 09:03:12" />
+    <file relUrl="images/c3.jpg" publishTime="03/30/2015 09:11:40" />
+    <file relUrl="images/rss.gif" publishTime="03/30/2015 09:11:42" />
+    <file relUrl="Item_Photos/an.jpg" publishTime="05/27/2017 01:19:50" />
+    <file relUrl="images/Faqsicon.JPG" publishTime="03/30/2015 09:11:42" />
+    <file relUrl="images/mixer.JPG" publishTime="03/30/2015 09:11:42" />
+    <file relUrl="Item_Photos/Beige netted anarkali party salwar.jpg" publishTime="05/05/2017 07:26:30" />
+    <file relUrl="Item_Photos/Apple iphone 6 plus.jpeg" publishTime="05/05/2017 01:53:48" />
+    <file relUrl="images/c5.JPG" publishTime="03/30/2015 09:11:40" />
+    <file relUrl="img/gallery/slider4.jpeg" publishTime="03/30/2015 09:11:26" />
+    <file relUrl="images/book8.jpg" publishTime="11/18/2014 10:43:50" />
+    <file relUrl="Item_Photos/Apple iphone 4s.jpg" publishTime="05/28/2017 23:35:52" />
+    <file relUrl="css/bootstrap.min.css" publishTime="03/30/2015 09:11:26" />
+    <file relUrl="Item_Photos/New Looks Mens blue Linen Kurta.jpg" publishTime="05/05/2017 00:39:06" />
+    <file relUrl="img/post-item-hover.png" publishTime="03/30/2015 09:11:26" />
+    <file relUrl="images/FAQ.jpg" publishTime="12/15/2011 15:28:46" />
+    <file relUrl="img/prettyPhoto/default/sprite_x.png" publishTime="03/30/2015 09:11:26" />
+    <file relUrl="Item_Photos/Xiomi mi 3 mobile phones.jpeg" publishTime="05/05/2017 03:50:32" />
+    <file relUrl="Item_Photos/Moto G4 play.jpeg" publishTime="05/05/2017 03:36:42" />
+    <file relUrl="img/gallery/client-img-5.png" publishTime="03/30/2015 09:11:26" />
+    <file relUrl="Subcategories.aspx" publishTime="04/05/2018 01:34:50" />
+    <file relUrl="Item_Photos/Samsung Galaxy S6 32GB Single Sim - Gold.jpg" publishTime="04/18/2017 04:48:44" />
+    <file relUrl="images/delete2.png" publishTime="03/30/2015 09:11:42" />
+    <file relUrl="images/img2.jpg" publishTime="02/09/2018 02:31:00" />
+    <file relUrl="images/Methi-Matar-Malai-Recipe-0.jpg" publishTime="02/09/2018 02:48:02" />
+    <file relUrl="images/9e987de7b44b33b02d22e8573fdb7d3d.jpg" publishTime="02/09/2018 02:48:02" />
+    <file relUrl="img/gallery/slidder2.jpg" publishTime="03/30/2015 09:11:26" />
+    <file relUrl="img/gallery-item-icons.png" publishTime="03/30/2015 09:11:26" />
+    <file relUrl="Member.Master" publishTime="04/13/2019 16:33:23" />
+    <file relUrl="img/piccolo-logo.png" publishTime="03/30/2015 09:11:26" />
+    <file relUrl="images/adminicon.jpg" publishTime="03/30/2015 09:11:40" />
+    <file relUrl="images/textbackground.gif" publishTime="02/06/2012 17:33:48" />
+    <file relUrl="images/Video_icon.png" publishTime="12/27/2011 14:08:36" />
+    <file relUrl="Item_Photos/Yellow chiffon saree.jpg" publishTime="05/27/2017 02:35:02" />
+    <file relUrl="Item_Photos/Torn jeans.jpg" publishTime="04/26/2017 22:12:44" />
+    <file relUrl="img/gallery/gallery-img-1-4col.jpg" publishTime="03/30/2015 09:11:26" />
+    <file relUrl="images/Edu_Banner3.jpg" publishTime="02/09/2018 02:31:00" />
+    <file relUrl="images/Salad(3).jpg" publishTime="02/09/2018 02:48:02" />
+    <file relUrl="images/login.gif" publishTime="12/15/2011 08:58:38" />
+    <file relUrl="js/coin-slider.min.js" publishTime="02/09/2018 02:31:16" />
+    <file relUrl="images/divider1.jpg" publishTime="12/14/2011 17:04:12" />
+    <file relUrl="images/cart5.jpg" publishTime="12/03/2014 13:55:24" />
+    <file relUrl="ViewItems.aspx" publishTime="04/05/2018 01:08:36" />
+    <file relUrl="Item_Photos/Shaded jeans.jpg" publishTime="04/26/2017 22:13:18" />
+    <file relUrl="Item_Photos/Moto Z play.jpeg" publishTime="05/05/2017 03:42:14" />
+    <file relUrl="img/prettyPhoto/default/sprite_next.png" publishTime="03/30/2015 09:11:26" />
+    <file relUrl="images/search.gif" publishTime="02/09/2018 02:31:00" />
+    <file relUrl="images/li_a.gif" publishTime="02/09/2018 02:31:00" />
+    <file relUrl="images/Message_Warning.png" publishTime="03/30/2015 09:11:42" />
+    <file relUrl="Item_Photos/Apple ipad mini.jpeg" publishTime="05/05/2017 01:50:12" />
+    <file relUrl="Item_Photos/Ray ban aviator sunglasses for men.jpg" publishTime="05/05/2017 09:55:24" />
+    <file relUrl="js/jquery.prettyPhoto.js" publishTime="03/30/2015 09:11:26" />
+    <file relUrl="img/favicon.ico" publishTime="03/30/2015 09:11:26" />
+    <file relUrl="images/main_bg.gif" publishTime="02/09/2018 02:31:00" />
+    <file relUrl="img/gallery/slider3.jpg" publishTime="03/30/2015 09:11:26" />
+    <file relUrl="images/111.gif" publishTime="02/19/2018 00:39:30" />
+    <file relUrl="images/15cf066f805cb56cff0293f679a38ec0.jpg" publishTime="02/09/2018 02:48:02" />
+    <file relUrl="images/prevlabel.gif" publishTime="12/15/2011 09:32:40" />
+    <file relUrl="img/gallery/client-img-4.png" publishTime="03/30/2015 09:11:26" />
+    <file relUrl="Item_Photos/Lenovo ideapad G50-80.jpg" publishTime="05/06/2017 08:59:32" />
+    <file relUrl="images/_thumb2.jpg" publishTime="03/30/2015 09:11:40" />
+    <file relUrl="Item_Photos/Moto G5 plus.jpeg" publishTime="05/05/2017 03:38:50" />
+    <file relUrl="images/pic1.jpg" publishTime="03/30/2015 09:11:42" />
+    <file relUrl="images/Lahori-Butter-Murgh-Recipe.jpg" publishTime="02/09/2018 02:48:02" />
+    <file relUrl="images/right-ad1.jpg" publishTime="12/14/2011 17:04:12" />
+    <file relUrl="Item_Photos/Multicolour ethnic shoes for men.jpg" publishTime="05/05/2017 10:32:12" />
+    <file relUrl="images/body-left-back.jpg" publishTime="12/14/2011 17:04:12" />
+    <file relUrl="Item_Photos/Green chanderi cotton saree.jpg" publishTime="05/27/2017 02:16:30" />
+    <file relUrl="img/back-top-btn.png" publishTime="03/30/2015 09:11:26" />
+    <file relUrl="Item_Photos/ak.jpg" publishTime="05/27/2017 01:17:58" />
+    <file relUrl="images/gal2.jpg" publishTime="02/09/2018 02:31:00" />
+    <file relUrl="images/IMG_2848-1.jpg" publishTime="02/09/2018 02:48:02" />
+    <file relUrl="Admin_Homepage.aspx" publishTime="04/05/2018 01:32:50" />
+    <file relUrl="AboutUs.aspx" publishTime="04/07/2018 01:22:58" />
+    <file relUrl="images/satisicon.jpg" publishTime="03/30/2015 09:11:42" />
+    <file relUrl="images/slide2.jpg" publishTime="02/09/2018 02:31:00" />
+    <file relUrl="_ProfileUpdation.aspx" publishTime="04/13/2019 13:46:12" />
+    <file relUrl="images/Untitled-5.jpg" publishTime="04/27/2016 17:40:28" />
+    <file relUrl="Item_Photos/Moto G4 plus.jpeg" publishTime="05/05/2017 03:37:16" />
+    <file relUrl="Item_Photos/Girly pullover frocks.jpg" publishTime="05/05/2017 01:07:04" />
+    <file relUrl="img/piccolo-footer-logo.png" publishTime="03/30/2015 09:11:26" />
+    <file relUrl="images/a872fe51b30349f059575d8eb1ece698.jpg" publishTime="02/09/2018 02:48:02" />
+    <file relUrl="Item_Photos/HP pro slate 8 pen press tablet.jpg" publishTime="05/27/2017 02:19:42" />
+    <file relUrl="images/body.jpg" publishTime="12/15/2011 16:29:52" />
+    <file relUrl="Item_Photos/HP 7 voice tab.jpg" publishTime="05/05/2017 03:17:10" />
+    <file relUrl="Item_Photos/g.jpg" publishTime="05/27/2017 02:17:16" />
+    <file relUrl="images/102.cms.jpeg" publishTime="12/26/2011 08:38:42" />
+    <file relUrl="images/appliance3.jpg" publishTime="03/30/2015 09:11:40" />
+    <file relUrl="images/social-sprite.gif" publishTime="12/26/2011 08:10:56" />
+    <file relUrl="images/supa-de-rosii.jpg" publishTime="02/09/2018 02:48:02" />
+    <file relUrl="images/cat_15.jpg" publishTime="12/29/2011 09:26:26" />
+    <file relUrl="img/gallery/slider2.jpg" publishTime="03/30/2015 09:11:26" />
+    <file relUrl="Item_Photos/White kurta with blue waist .jpg" publishTime="05/05/2017 07:17:28" />
+    <file relUrl="js/jquery.cslider.js" publishTime="03/30/2015 09:11:26" />
+    <file relUrl="images/icon2.jpg" publishTime="03/30/2015 09:11:42" />
+    <file relUrl="images/NewCart.jpg" publishTime="01/01/2012 08:44:42" />
+    <file relUrl="images/orders.jpg" publishTime="12/27/2011 14:05:58" />
+    <file relUrl="images/spacer.gif" publishTime="02/09/2018 02:31:00" />
+    <file relUrl="images/_thumb4.jpg" publishTime="03/30/2015 09:11:40" />
+    <file relUrl="Item_Photos/straight slim gray jeans.png" publishTime="04/26/2017 22:10:36" />
+    <file relUrl="img/prettyPhoto/default/sprite.png" publishTime="03/30/2015 09:11:26" />
+    <file relUrl="images/icon4.jpg" publishTime="03/30/2015 09:11:42" />
+    <file relUrl="Item_Photos/Xiomi mi 5 mobile phones.jpeg" publishTime="05/05/2017 03:51:12" />
+    <file relUrl="images/gal4.jpg" publishTime="02/09/2018 02:31:00" />
+    <file relUrl="css/style.css" publishTime="04/05/2018 01:03:16" />
+    <file relUrl="images/img1.jpg" publishTime="02/09/2018 02:31:00" />
+    <file relUrl="images/tools1.jpg" publishTime="03/30/2015 09:11:42" />
+    <file relUrl="Item_Photos/Navy blue rust brown slendid anarkali salwar.jpg" publishTime="05/05/2017 07:24:28" />
+    <file relUrl="images/FPslide3.jpg" publishTime="02/14/2017 23:42:20" />
+    <file relUrl="Item_Photos/Fossil FS Analog Watch For Men.jpg" publishTime="05/05/2017 08:23:50" />
+    <file relUrl="Item_Photos/Men Polo Shirt Solid Turn Down Collar Short-sleeve.jpg" publishTime="05/27/2017 02:26:00" />
+    <file relUrl="Item_Photos/Red netted saree.jpg" publishTime="05/05/2017 07:38:06" />
+    <file relUrl="images/lava.gif" publishTime="12/25/2011 09:41:16" />
+    <file relUrl="images/16e539fa27b4395885a66015b5bfb4ba.jpg" publishTime="02/09/2018 02:48:02" />
+    <file relUrl="images/Mobile_2.jpg" publishTime="12/29/2011 09:26:12" />
+    <file relUrl="Item_Photos/Roadster men grey canvas shoes.jpg" publishTime="05/27/2017 02:30:46" />
+    <file relUrl="Item_Photos/j.jpg" publishTime="05/27/2017 01:24:14" />
+    <file relUrl="images/divider2.jpg" publishTime="12/14/2011 17:04:12" />
+    <file relUrl="img/gallery/post-img-1.jpg" publishTime="03/30/2015 09:11:26" />
+    <file relUrl="images/Progressbar_Content.gif" publishTime="03/30/2015 09:11:42" />
+    <file relUrl="Item_Photos/Summer Dress Pink With Belt Sexy Women Chiffon Dre.jpg" publishTime="05/27/2017 02:32:20" />
+    <file relUrl="images/feedback1.jpg" publishTime="12/04/2014 08:27:08" />
+    <file relUrl="scripts/jquery-1.4.1.min.js" publishTime="12/26/2011 08:10:16" />
+    <file relUrl="Item_Photos/Fastrack rectangular frame summer sunglasses for men.jpg" publishTime="05/05/2017 09:33:54" />
+    <file relUrl="Item_Photos/Moto X style black mobile.jpeg" publishTime="05/05/2017 03:41:08" />
+    <file relUrl="Item_Photos/ai.jpg" publishTime="05/27/2017 01:16:18" />
+    <file relUrl="Admin_CustomerTransactions.aspx" publishTime="04/05/2018 01:37:04" />
+    <file relUrl="Item_Photos/ad.jpg" publishTime="05/27/2017 01:13:08" />
+    <file relUrl="images/puhlish.jpg" publishTime="12/27/2011 14:05:58" />
+    <file relUrl="Item_Photos/Lenovo a3000 tablet.jpeg" publishTime="05/05/2017 03:30:16" />
+    <file relUrl="Item_Photos/HTC desire 820s.jpeg" publishTime="05/05/2017 03:26:08" />
+    <file relUrl="images/_video.jpg" publishTime="03/30/2015 09:11:40" />
+    <file relUrl="img/gallery/client-img-1.png" publishTime="03/30/2015 09:11:26" />
+    <file relUrl="img/gallery/gallery-img-1-3col.jpg" publishTime="03/30/2015 09:11:26" />
+    <file relUrl="images/Homemade-Tzatziki-Sauce.jpg" publishTime="02/09/2018 02:48:02" />
+    <file relUrl="images/tomatensoep-andalucie.jpg" publishTime="02/09/2018 02:48:02" />
+    <file relUrl="Item_Photos/White western frock with hat.jpg" publishTime="05/27/2017 02:33:30" />
+    <file relUrl="images/Book4.jpg" publishTime="11/18/2014 10:37:22" />
+    <file relUrl="Item_Photos/Ray ban waferer sunglasses for men.jpg" publishTime="05/05/2017 09:54:20" />
+    <file relUrl="images/Grid_Footer.gif" publishTime="03/30/2015 09:11:42" />
+    <file relUrl="images/contentfoot.gif" publishTime="03/30/2015 09:11:42" />
+    <file relUrl="images/appliance4.jpg" publishTime="03/30/2015 09:11:40" />
+    <file relUrl="img/container-bg.png" publishTime="03/30/2015 09:11:26" />
+    <file relUrl="images/profile1.jpg" publishTime="03/30/2015 09:11:42" />
+    <file relUrl="js/bootstrap.min.js" publishTime="03/30/2015 09:11:26" />
+    <file relUrl="Admin_Tasks.aspx" publishTime="04/05/2018 01:36:26" />
+    <file relUrl="Item_Photos/New Looks Mens white Linen Kurta.png" publishTime="05/05/2017 00:39:34" />
+    <file relUrl="images/Book7.jpg" publishTime="11/18/2014 10:37:22" />
+    <file relUrl="images/_flickr1.jpg" publishTime="03/30/2015 09:11:40" />
+    <file relUrl="Homepage.aspx" publishTime="04/11/2019 17:03:04" />
+    <file relUrl="Item_Photos/v.jpg" publishTime="04/18/2017 04:48:44" />
+    <file relUrl="js/jquery.min.js" publishTime="03/30/2015 09:11:26" />
+    <file relUrl="images/change_password.png" publishTime="03/30/2015 09:11:42" />
+    <file relUrl="images/pina-colada.jpg" publishTime="02/09/2018 02:48:02" />
+    <file relUrl="Item_Photos/HTC butterfly.png" publishTime="05/05/2017 03:25:00" />
+    <file relUrl="images/members-icon.jpg" publishTime="03/30/2015 09:11:42" />
+    <file relUrl="images/social-icons.png" publishTime="03/30/2015 09:11:42" />
+    <file relUrl="images/c2.jpg" publishTime="03/30/2015 09:11:40" />
+    <file relUrl="images/P_frame_2.bmp" publishTime="12/15/2011 09:01:16" />
+    <file relUrl="images/hawaiian-island-sunset-drink-recipe-03.jpg" publishTime="02/09/2018 02:48:02" />
+    <file relUrl="img/bg_direction_nav.png" publishTime="03/30/2015 09:11:26" />
+    <file relUrl="Item_Photos/Samsung Galaxy J7 Prime SM-G610F (Gold, 16GB).jpg" publishTime="04/18/2017 04:48:44" />
+    <file relUrl="Item_Photos/HTC one mobile phone.png" publishTime="05/05/2017 03:27:14" />
+    <file relUrl="Item_Photos/Blue minnie mouse cartoon jacket.jpg" publishTime="05/05/2017 01:25:28" />
+    <file relUrl="style/style-ie.css" publishTime="12/14/2011 17:04:12" />
+    <file relUrl="images/ed6.jpg" publishTime="02/09/2018 02:31:00" />
+    <file relUrl="images/myorders1.JPG" publishTime="12/27/2011 14:05:58" />
+    <file relUrl="img/gallery/gallery-img-1-6col.jpg" publishTime="03/30/2015 09:11:26" />
+    <file relUrl="Item_Photos/Light Blue True Denim jeans.jpg" publishTime="05/27/2017 02:24:34" />
+    <file relUrl="images/_flickr2.jpg" publishTime="03/30/2015 09:11:40" />
+    <file relUrl="images/Edu_Banner2.jpg" publishTime="02/09/2018 02:31:00" />
+    <file relUrl="Item_Photos/Dark blue jeans.jpg" publishTime="04/26/2017 22:11:26" />
+    <file relUrl="images/gal1.jpg" publishTime="02/09/2018 02:31:00" />
+    <file relUrl="images/Log1.jpg" publishTime="12/15/2011 09:27:30" />
+    <file relUrl="Item_Photos/x.jpg" publishTime="05/27/2017 02:34:38" />
+    <file relUrl="Item_Photos/Lenovo yoga tablet 3.jpeg" publishTime="05/05/2017 03:34:54" />
+    <file relUrl="images/contentbody.gif" publishTime="03/30/2015 09:11:42" />
+    <file relUrl="images/discussion_board.jpg" publishTime="01/02/2012 08:36:48" />
+    <file relUrl="Item_Photos/Blue jeans with white jacket for boys.jpg" publishTime="05/05/2017 01:23:32" />
+    <file relUrl="Item_Photos/Dell inspiron 5378.jpg" publishTime="05/06/2017 08:50:56" />
+    <file relUrl="images/109.cms.jpeg" publishTime="12/27/2011 13:21:20" />
+    <file relUrl="bin/DATAMINING_ASSOCIATIONRULE.pdb" publishTime="04/30/2019 16:13:52" />
+    <file relUrl="images/body-right.jpg" publishTime="12/14/2011 17:04:12" />
+    <file relUrl="images/maxresdefault.jpg" publishTime="02/09/2018 02:48:02" />
+    <file relUrl="Item_Photos/Dell inspiron 3452.jpg" publishTime="05/27/2017 02:15:58" />
+    <file relUrl="images/Grid_RowNumber.gif" publishTime="03/30/2015 09:11:42" />
+    <file relUrl="img/apple-touch-icon-114x114.png" publishTime="03/30/2015 09:11:26" />
+    <file relUrl="Item_Photos/Baby boy 3 piece striped cardigan dress.jpg" publishTime="05/05/2017 01:22:18" />
+    <file relUrl="images/italian-salad.jpg" publishTime="02/09/2018 02:48:02" />
+    <file relUrl="Item_Photos/Yellow pink cotton saree.jpg" publishTime="05/27/2017 02:35:22" />
+    <file relUrl="images/ed5.jpg" publishTime="02/09/2018 02:31:00" />
+    <file relUrl="Item_Photos/Black and pink cotton saree.jpg" publishTime="05/05/2017 07:31:46" />
+    <file relUrl="images/Progressbar_Wrapper.gif" publishTime="03/30/2015 09:11:42" />
+    <file relUrl="Item_Photos/Blue and white striped sweatshirts.jpg" publishTime="05/05/2017 06:58:04" />
+    <file relUrl="images/Items.jpg" publishTime="12/15/2011 15:41:08" />
+    <file relUrl="img/rnd-client-mask.png" publishTime="03/30/2015 09:11:26" />
+    <file relUrl="images/a05fb606c625433c4fd40d549b28c22e.jpg" publishTime="02/09/2018 02:48:02" />
+    <file relUrl="images/conatctus.png" publishTime="12/15/2011 08:58:38" />
+    <file relUrl="Item_Photos/Blue jeans with red checkered shits for men.jpg" publishTime="05/05/2017 01:18:56" />
+    <file relUrl="images/23.jpg" publishTime="02/19/2018 00:37:16" />
+    <file relUrl="Item_Photos/Nike blue sneakers.jpg" publishTime="05/05/2017 10:21:44" />
+    <file relUrl="Item_Photos/Samsung On5 Pro (Gold).jpg" publishTime="04/18/2017 04:48:44" />
+    <file relUrl="images/cart6.jpg" publishTime="12/03/2014 13:55:24" />
+    <file relUrl="images/Mobile_1.jpg" publishTime="12/29/2011 09:26:12" />
+    <file relUrl="Item_Photos/e.jpg" publishTime="05/27/2017 01:22:48" />
+    <file relUrl="Item_Photos/Spring summer cat font bold dress.jpg" publishTime="05/27/2017 02:31:52" />
+    <file relUrl="images/Clothes_2.jpg" publishTime="12/29/2011 09:26:48" />
+    <file relUrl="ReccModule.aspx" publishTime="04/04/2019 17:27:05" />
+    <file relUrl="images/Book5.jpg" publishTime="11/18/2014 10:37:22" />
+    <file relUrl="images/DeleteIcon.jpg" publishTime="03/30/2015 09:11:42" />
+    <file relUrl="images/a2.png" publishTime="03/30/2015 09:11:40" />
+    <file relUrl="images/mainlogo7.jpg" publishTime="03/30/2015 09:11:42" />
+    <file relUrl="images/icon3.jpg" publishTime="03/30/2015 09:11:42" />
+    <file relUrl="Item_Photos/t.jpg" publishTime="05/27/2017 01:25:18" />
+    <file relUrl="img/prettyPhoto/default/default_thumb.png" publishTime="03/30/2015 09:11:26" />
+    <file relUrl="images/nextlabel.gif" publishTime="12/15/2011 09:32:40" />
+    <file relUrl="Item_Photos/aj.jpg" publishTime="05/27/2017 01:16:40" />
+    <file relUrl="images/ads_pic.jpg" publishTime="03/30/2015 09:11:40" />
+    <file relUrl="img/social-icons.png" publishTime="03/30/2015 09:11:26" />
+    <file relUrl="images/t1.png" publishTime="12/04/2014 08:27:08" />
+    <file relUrl="img/page-bg-1.jpg" publishTime="03/30/2015 09:11:26" />
+    <file relUrl="Item_Photos/Redmi mi max mobile phones.jpg" publishTime="05/05/2017 03:49:08" />
+    <file relUrl="Item_Photos/Lenovo yoga 500.png" publishTime="05/06/2017 09:04:04" />
+    <file relUrl="bin/itextsharp.dll" publishTime="03/31/2012 13:21:30" />
+    <file relUrl="Item_Photos/k.jpg" publishTime="05/27/2017 02:21:36" />
+    <file relUrl="images/c1.jpg" publishTime="03/30/2015 09:11:40" />
+    <file relUrl="images/Grid_RowHover.gif" publishTime="03/30/2015 09:11:42" />
+    <file relUrl="images/right-ad2.jpg" publishTime="12/14/2011 17:04:12" />
+    <file relUrl="images/gas.JPG" publishTime="03/30/2015 09:11:42" />
+    <file relUrl="images/overlay.png" publishTime="02/09/2018 02:31:00" />
+    <file relUrl="images/P_frame_4.bmp" publishTime="12/15/2011 09:01:16" />
+    <file relUrl="Item_Photos/Round matte brown red sunglasses for men.jpg" publishTime="05/05/2017 09:50:16" />
+    <file relUrl="Item_Photos/Samsung Galaxy Note 4 (Black).jpg" publishTime="05/27/2017 02:31:28" />
+    <file relUrl="images/resetpwd.jpg" publishTime="03/30/2015 09:11:42" />
+    <file relUrl="img/gallery/slider1.jpeg" publishTime="03/30/2015 09:11:26" />
+    <file relUrl="images/refrigarator.JPG" publishTime="03/30/2015 09:11:42" />
+    <file relUrl="images/shopping-basket-refresh-icon.png" publishTime="01/02/2012 08:32:12" />
+    <file relUrl="images/slide1.jpg" publishTime="02/09/2018 02:31:00" />
+    <file relUrl="Item_Photos/Korvari handloom grey red silk cotton saree.jpg" publishTime="05/27/2017 02:22:44" />
+    <file relUrl="images/Grid_ActionDelete.gif" publishTime="03/30/2015 09:11:42" />
+    <file relUrl="Item_Photos/Apple iphone 7 plus.jpeg" publishTime="05/05/2017 01:56:18" />
+    <file relUrl="js/jquery.quicksand.js" publishTime="03/30/2015 09:11:26" />
+    <file relUrl="images/clear.gif" publishTime="03/30/2015 09:11:42" />
+    <file relUrl="images/Body_Bg1.jpg" publishTime="12/15/2011 10:48:06" />
+    <file relUrl="Item_Photos/HTC desire 10 pro.jpg" publishTime="05/05/2017 03:25:30" />
+    <file relUrl="images/banner_shoppingcart.jpg" publishTime="04/27/2016 17:31:34" />
+    <file relUrl="images/mozzarella-sticks.jpg" publishTime="02/09/2018 02:48:02" />
+    <file relUrl="images/cat_13.jpg" publishTime="12/29/2011 09:26:26" />
+    <file relUrl="Item_Photos/Samsung Galaxy A5 (Champagne Gold, 16 GB).jpeg" publishTime="04/18/2017 04:48:44" />
+    <file relUrl="Admin.Master" publishTime="04/24/2018 23:43:42" />
+    <file relUrl="Item_Photos/Mens Casual Basic Knitted Turtleneck Slim Fit Pullover Thermal Sweaters.jpg" publishTime="05/27/2017 02:27:12" />
+    <file relUrl="images/cat_16.jpg" publishTime="12/29/2011 09:26:26" />
+    <file relUrl="images/round_bot.gif" publishTime="12/26/2011 08:10:56" />
+    <file relUrl="images/lcd_1.jpg" publishTime="12/20/2011 14:17:14" />
+    <file relUrl="images/serviceicon.jpg" publishTime="03/30/2015 09:11:42" />
+    <file relUrl="images/no-bake-choc-pie.jpg" publishTime="02/09/2018 02:48:02" />
+    <file relUrl="css/bootstrap.css" publishTime="03/30/2015 09:11:26" />
+    <file relUrl="images/273A002700000578-3022632-image-a-38_1428393379770.jpg" publishTime="02/09/2018 02:48:02" />
+    <file relUrl="images/Edu_Banner1.jpg" publishTime="02/09/2018 02:31:00" />
+    <file relUrl="img/gallery/gallery-img-1-full.jpg" publishTime="03/30/2015 09:11:26" />
+    <file relUrl="images/_featured.jpg" publishTime="03/30/2015 09:11:40" />
+    <file relUrl="images/featured_slide_right.png" publishTime="12/26/2011 08:10:56" />
+    <file relUrl="images/a4.jpg" publishTime="03/30/2015 09:11:40" />
+    <file relUrl="images/logo.gif" publishTime="03/30/2015 09:11:42" />
+    <file relUrl="css/flexslider.css" publishTime="03/30/2015 09:11:26" />
+    <file relUrl="Item_Photos/HP omni 10 tablet.jpg" publishTime="05/05/2017 03:15:58" />
+    <file relUrl="Item_Photos/Moto X force.jpeg" publishTime="05/05/2017 03:39:50" />
+    <file relUrl="Item_Photos/Pink kurta.jpg" publishTime="05/27/2017 02:29:54" />
+    <file relUrl="Item_Photos/Redmi note 3 phones.jpg" publishTime="05/05/2017 03:49:46" />
+    <file relUrl="images/Mobile_4.jpg" publishTime="12/29/2011 09:26:12" />
+    <file relUrl="Item_Photos/Classical Design Cotton Men Dress Shirts.jpg" publishTime="05/27/2017 01:22:00" />
+    <file relUrl="Item_Photos/ag.jpg" publishTime="05/27/2017 01:15:04" />
+    <file relUrl="images/66c087d72db4d3f06c69dc7d151796e1.jpg" publishTime="02/09/2018 02:48:02" />
+    <file relUrl="Login_page.aspx" publishTime="04/05/2018 01:28:34" />
+    <file relUrl="css/slider.css" publishTime="03/30/2015 09:11:26" />
+    <file relUrl="images/bkgd1.jpg" publishTime="12/15/2011 10:57:36" />
+    <file relUrl="Item_Photos/Ray ban round frame sunglasses for men.jpg" publishTime="05/05/2017 09:30:32" />
+    <file relUrl="images/d37bbfd78f4d52da9e81bc81a9366019.jpg" publishTime="02/09/2018 02:48:02" />
+    <file relUrl="Item_Photos/Pink festive anarkali suit.jpg" publishTime="05/05/2017 07:23:00" />
+    <file relUrl="Item_Photos/ap.jpg" publishTime="05/27/2017 01:20:34" />
+    <file relUrl="images/feedbackicon2.jpg" publishTime="03/30/2015 09:11:42" />
+    <file relUrl="images/round_top.gif" publishTime="12/26/2011 08:10:56" />
+    <file relUrl="images/BIRYANI-250.jpg" publishTime="02/09/2018 02:48:02" />
+    <file relUrl="Item_Photos/HTC desire eye.jpeg" publishTime="05/05/2017 03:26:44" />
+    <file relUrl="images/Untitled-1.jpg" publishTime="04/27/2016 17:34:46" />
+    <file relUrl="images/slide3.jpg" publishTime="02/09/2018 02:31:00" />
+    <file relUrl="Item_Photos/Apple ipad mini 4.jpeg" publishTime="05/05/2017 01:51:48" />
+    <file relUrl="images/loginbg2.jpg" publishTime="03/10/2016 16:33:08" />
+    <file relUrl="Item_Photos/Brown and white casual shoes for men.jpg" publishTime="05/05/2017 10:35:32" />
+    <file relUrl="Item_Photos/w.jpg" publishTime="04/18/2017 04:48:44" />
+    <file relUrl="Item_Photos/Apple iphone 6.jpeg" publishTime="05/05/2017 01:53:08" />
+    <file relUrl="ViewItemDetails.aspx" publishTime="04/05/2018 03:18:30" />
+    <file relUrl="images/comments.gif" publishTime="03/30/2015 09:11:42" />
+    <file relUrl="images/P_frame_3.bmp" publishTime="12/15/2011 10:00:22" />
+    <file relUrl="js/modernizr.custom.28468.js" publishTime="03/30/2015 09:11:26" />
+    <file relUrl="Item_Photos/l.jpg" publishTime="05/27/2017 01:23:56" />
+    <file relUrl="images/cat_11.jpg" publishTime="12/29/2011 09:26:26" />
+    <file relUrl="img/apple-touch-icon.png" publishTime="03/30/2015 09:11:26" />
+    <file relUrl="Item_Photos/Blue and black georgette saree.jpg" publishTime="05/27/2017 02:13:16" />
+    <file relUrl="images/registericon.png" publishTime="03/30/2015 09:11:42" />
+    <file relUrl="images/cat_14.jpg" publishTime="12/29/2011 09:26:26" />
+    <file relUrl="images/registerlogo.jpg" publishTime="03/30/2015 09:11:42" />
+    <file relUrl="Item_Photos/Black anarkali festive salwar suit.jpg" publishTime="05/05/2017 07:25:10" />
+    <file relUrl="images/slideshow-holiday-mocktails-holiday-shirley-temple-1.jpg" publishTime="02/09/2018 02:48:02" />
+    <file relUrl="images/ad125x125.jpg" publishTime="03/30/2015 09:11:40" />
+    <file relUrl="images/twitter_bg.gif" publishTime="12/26/2011 08:10:56" />
+    <file relUrl="images/footer.jpg" publishTime="12/14/2011 17:04:12" />
+    <file relUrl="MemberViewDetails.aspx" publishTime="04/05/2018 03:18:46" />
+    <file relUrl="Item_Photos/Black full arm winter sweatshirt.jpg" publishTime="05/05/2017 07:09:08" />
+    <file relUrl="Item_Photos/Apple ipad pro.jpeg" publishTime="05/05/2017 01:52:22" />
+    <file relUrl="js/jquery.easing.1.3.js" publishTime="03/30/2015 09:11:26" />
+    <file relUrl="images/1581511.jpg" publishTime="02/09/2018 02:48:02" />
+    <file relUrl="images/greek-salad2.jpg" publishTime="02/09/2018 02:48:02" />
+    <file relUrl="images/106.cms.jpg" publishTime="12/30/2011 09:03:18" />
+    <file relUrl="Item_Photos/Moto X play.jpeg" publishTime="05/05/2017 03:40:34" />
+    <file relUrl="img/gallery/blog-med-img-1.jpg" publishTime="03/30/2015 09:11:26" />
+    <file relUrl="Item_Photos/Blue shaded jeans.jpg" publishTime="04/26/2017 22:14:50" />
+    <file relUrl="images/_flickr4.jpg" publishTime="03/30/2015 09:11:40" />
+    <file relUrl="Item_Photos/Blue and grey 3 piece cardigan.jpg" publishTime="05/05/2017 01:15:40" />
+    <file relUrl="images/Edu_Banner4.jpg" publishTime="02/09/2018 02:31:00" />
+    <file relUrl="images/SWCorn_Chowder_NoChicken_product-page-300x168.jpg" publishTime="02/09/2018 02:48:02" />
+    <file relUrl="images/divider.gif" publishTime="03/30/2015 09:11:42" />
+  </publishProfile>
+</publishData>
